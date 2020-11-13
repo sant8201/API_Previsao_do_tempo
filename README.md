@@ -16,7 +16,7 @@
 
 ## Descrição do Projeto :star:
 <p align="justify"> 
-Projeto feito ao longo do Bootcamp Everis Fullstack Developer, sendo ministrado pelo João Victor Ghignatti, onde exibi os dados consultados em uma api de previsão de tempo. O objetivo é evoluir no Angular, aprendendo uma forma avançada de gerenciamento de estado com NGRX, práticas e padrões de desenvolvimento, acompanhados de algumas APIs úteis que o Angular tem..
+Projeto feito ao longo do Bootcamp Everis Fullstack Developer, sendo ministrado pelo João Victor Ghignatti, onde este exibi os dados consultados em uma api de previsão de tempo. O objetivo é evoluir no Angular, aprendendo uma forma avançada de gerenciamento de estado com NGRX, práticas e padrões de desenvolvimento, acompanhados de algumas APIs úteis que o Angular tem.
 </p>
 
 ## Funcionalidades :checkered_flag:
