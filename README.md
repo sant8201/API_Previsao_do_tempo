@@ -49,7 +49,7 @@ Projeto desenvolvido ao longo do Bootcamp Everis Fullstack Developer, sendo mini
  
   ##### API
   >  Entre no site https://openweathermap.org <br>
-  >  Faça a sua conta
+  >  Faça a sua conta <br>
   >  Cole a sua api key nos locais definidos na pasta environments
   
   ##### Execute a aplicação:
